@@ -1,2 +1,2 @@
-# MHFreedom-HD-pack
-uwu
+MHFREEDOM 1 HD pack with Esrgan
+
